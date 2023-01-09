@@ -1,8 +1,6 @@
 ## Oiii eu sou Mateus Seemann
 
-Trabalho atualmente como Operador logistico no Mercado Livre
-
-Meu sonho é trabalhar com QA ou Desenvolvimento
+Trabalho atualmente como Operador logístico no Mercado Livre, meu sonho é trabalhar com QA ou Desenvolvimento, estudo diariamente, faço cursos na Udemy como, por exemplo, Java, JS, HTML, CSS, Python, BDD, selenium, onde trabalho utilizo muito SQL para dashboard de dados, venho na expectativa de arrumar algo na área, estou na 4 fase da faculdade, utilizo muito o Eclipse me adaptei muito bem, estou em busca de projetos para acrescentar ao meu desenvolvimento. 
 
 <div align="center">
   <a href="https://github.com/MateusSeemann">
