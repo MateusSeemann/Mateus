@@ -1,6 +1,8 @@
 ## Olá eu sou Mateus Seemann
 
-Trabalho atualmente como Operador logístico no Mercado Livre, meu sonho é trabalhar com QA ou Desenvolvimento, estudo diariamente, faço cursos na Udemy como, por exemplo, Java, JS, HTML, CSS, Python, BDD, selenium, onde trabalho utilizo muito SQL para dashboard de dados, venho na expectativa de arrumar algo na área, estou na 4 fase da faculdade, utilizo muito o Eclipse me adaptei muito bem, estou em busca de projetos para acrescentar ao meu desenvolvimento. 
+Atualmente atuo como QA Automatizador, com experiência em testes manuais e automatizados, garantindo a qualidade e a confiabilidade das aplicações. Possuo vivência na criação e execução de cenários de testes utilizando BDD, além da automação com Selenium, aplicando boas práticas de qualidade de software.
+
+Tenho sólidos conhecimentos em Java, JavaScript, Python, HTML e CSS, que utilizo no desenvolvimento e manutenção de scripts de automação. No dia a dia, faço uso frequente de SQL para validação de dados, consultas e apoio na análise de dashboards e relatórios. 
 
 <div align="center">
   <a href="https://github.com/MateusSeemann">
